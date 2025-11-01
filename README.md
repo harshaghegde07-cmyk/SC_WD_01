@@ -1,8 +1,8 @@
-Responsive Landing Page :
+## Responsive Landing Page :
 
 A vibrant, responsive landing page built with HTML and CSS, featuring a fixed navigation bar with always-visible menu items and a dynamic hero section. The design is modern and visually appealing, with a magenta-to-orange gradient hero, teal navigation bar, and coral pink accents for interactivity. The page is optimized for all screen sizes and includes smooth hover and scroll effects.
 
-Features
+## Features
 
 Fixed Navigation Bar: Always-visible menu items (Home, About, Services, Contact) with no collapsible hamburger menu, even on mobile devices.
 Interactive Navigation: Navbar buttons feature coral pink hover effects (#ff6b6b), with a unique brighter coral (#ff8787) for the "About" link. The navbar transitions from semi-transparent teal (#006d77) to solid teal on scroll.
